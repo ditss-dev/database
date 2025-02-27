@@ -1,8 +1,8 @@
 ## game for WhatsApp/telegram bots
 
-Install in package.json:
+game asah otak:
 ```json
-jembut 
+https://raw.githubusercontent.com/ditss-dev/database/main/game/asahotak.json
 ```
 or install in terminal:
 ```
