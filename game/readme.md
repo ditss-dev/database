@@ -16,63 +16,63 @@ https://raw.githubusercontent.com/ditss-dev/database/main/game/family100.json
 ```json
 https://raw.githubusercontent.com/ditss-dev/database/main/game/siapakahaku.json
 ```
-5. game :
+5. game : susunkata
 ```json
-https://raw.githubusercontent.com/ditss-dev/database/main/game/asahotak.json
+https://raw.githubusercontent.com/ditss-dev/database/main/game/susunkata.json
 ```
-6. game :
+6. game : tebakanime
 ```json
-https://raw.githubusercontent.com/ditss-dev/database/main/game/caklontong.json
+https://raw.githubusercontent.com/ditss-dev/database/main/game/tebakanime.json
 ```
-7. game :
+7. game : tebakbendera
 ```json
-https://raw.githubusercontent.com/ditss-dev/database/main/game/asahotak.json
+https://raw.githubusercontent.com/ditss-dev/database/main/game/tebakbendera.json
 ```
-8. game :
+8. game : tebakbendera2
 ```json
-https://raw.githubusercontent.com/ditss-dev/database/main/game/caklontong.json
+https://raw.githubusercontent.com/ditss-dev/database/main/game/tebakbendera2.json
 ```
-9. game :
+9. game : tebakgambar
 ```json
-https://raw.githubusercontent.com/ditss-dev/database/main/game/asahotak.json
+https://raw.githubusercontent.com/ditss-dev/database/main/game/tebakgambar.json
 ```
-10. game :
+10. game : tebakkabupaten
 ```json
-https://raw.githubusercontent.com/ditss-dev/database/main/game/caklontong.json
+https://raw.githubusercontent.com/ditss-dev/database/main/game/tebakkabupaten.json
 ```
-11. game :
+11. game : tebakkalimat
 ```json
-https://raw.githubusercontent.com/ditss-dev/database/main/game/asahotak.json
+https://raw.githubusercontent.com/ditss-dev/database/main/game/tebakkalimat.json
 ```
-12. game :
+12. game : tebakkata
 ```json
-https://raw.githubusercontent.com/ditss-dev/database/main/game/caklontong.json
+https://raw.githubusercontent.com/ditss-dev/database/main/game/tebakkata.json
 ```
-13. game :
+13. game : tebakkimia
 ```json
-https://raw.githubusercontent.com/ditss-dev/database/main/game/asahotak.json
+https://raw.githubusercontent.com/ditss-dev/database/main/game/tebakkimia.json
 ```
-14. game :
+14. game : tebaklagu
 ```json
-https://raw.githubusercontent.com/ditss-dev/database/main/game/caklontong.json
+https://raw.githubusercontent.com/ditss-dev/database/main/game/tebaklagu.json
 ```
-15. game :
+15. game : tebaklirik
 ```json
-https://raw.githubusercontent.com/ditss-dev/database/main/game/asahotak.json
+https://raw.githubusercontent.com/ditss-dev/database/main/game/tebaklirik.json
 ```
-17. game :
+16. game : tebaktebakan
 ```json
-https://raw.githubusercontent.com/ditss-dev/database/main/game/caklontong.json
+https://raw.githubusercontent.com/ditss-dev/database/main/game/tebatebakan.json
+```
+17. game : tekateki
+```json
+https://raw.githubusercontent.com/ditss-dev/database/main/game/tekateki.json
 ```
 18. game :
 ```json
-https://raw.githubusercontent.com/ditss-dev/database/main/game/asahotak.json
-```
-19. game :
-```json
 https://raw.githubusercontent.com/ditss-dev/database/main/game/caklontong.json
 ```
-20. game :
+19. game :
 ```json
 https://raw.githubusercontent.com/ditss-dev/database/main/game/caklontong.json
 ```
