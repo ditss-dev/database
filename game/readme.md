@@ -77,16 +77,11 @@ https://raw.githubusercontent.com/ditss-dev/database/main/game/caklontong.json
 https://raw.githubusercontent.com/ditss-dev/database/main/game/caklontong.json
 ```
 
+## Join Group Diskusi
+[![Grup WhatsApp](https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/IEGSv0bv5gC2etNuXJajd0) 
+**NO BOT LAIN**
+
+# Proyek Saya
+Untuk dukungan, hubungi saya di [WhatsApp](https://wa.me/6281513607731?text=Saya%20ingin%20bertanya%20tentang%20proyek%20GitHub%20Anda).
 
 
-
-Then import the default function in your code:
-```ts 
-// type esm
-jembut
-```
-
-```js
-// type cjs
-ah jembute
-```
