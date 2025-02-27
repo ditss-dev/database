@@ -6,7 +6,7 @@
 
 The original repository was initially removed by its creator and subsequently taken over by [WhiskeySockets](https://github.com/WhiskeySockets). Building upon this foundation, I have implemented several enhancements and introduced new features that were not present in the original repository. These improvements aim to elevate functionality and provide a more robust and versatile experience.
 
-## Install
+## asuma multi device.
 
 Install in package.json:
 ```json
