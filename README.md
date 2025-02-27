@@ -1,4 +1,4 @@
-# <div align='center'>dabase for asuma bot needs</div>
+# <div align='center'>database for asuma bot needs</div>
 
 <div align="center"><img src="https://files.catbox.moe/n9rspg.jpg"></div>
 
