@@ -6,7 +6,7 @@ https://raw.githubusercontent.com/ditss-dev/database/main/game/asahotak.json
 ```
 or install in terminal:
 ```
-jembut
+https://raw.githubusercontent.com/ditss-dev/database/main/game/caklontong.json
 ```
 
 Then import the default function in your code:
