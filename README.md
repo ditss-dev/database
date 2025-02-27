@@ -4,7 +4,7 @@
 
 ## Important Note
 
-This database will be used for bot needs such as games and others. [Saluran Ditss](https://whatsapp.com/channel/0029VaimJO0E50UaXv9Z1J0L). Building upon this foundation, I have implemented several enhancements and introduced new features that were not present in the original repository. These improvements aim to elevate functionality and provide a more robust and versatile experience.
+This database will be used for bot needs such as games and others. [Saluran Ditss](https://whatsapp.com/channel/0029VaimJO0E50UaXv9Z1J0L). Building upon this foundation, I have implemented several enhancements and introduced new features that were not present in the original repository. These improvements aim to elevate functionality and provide a more robust and versatile experience[Instagram](https://www.instagram.com/dits.v2).
 
 # Proyek Saya
 
