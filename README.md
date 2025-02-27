@@ -8,7 +8,7 @@ This database will be used for bot needs such as games and others. [Saluran Dits
 
 # Proyek Saya
 
-Untuk dukungan, hubungi saya di [WhatsApp](https://wa.me/6281234567890).
+Untuk dukungan, hubungi saya di [WhatsApp](https://wa.me/6281513607731).
 
 ## asuma multi device.
 
