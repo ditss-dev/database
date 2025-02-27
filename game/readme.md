@@ -1,70 +1,70 @@
 ## game for WhatsApp/telegram bots
 
-1. game: asah otak
+1. game: asah otak [Lihat Disini](https://raw.githubusercontent.com/ditss-dev/database/main/game/asahotak.json).
 ```json
 https://raw.githubusercontent.com/ditss-dev/database/main/game/asahotak.json
 ```
-2. game: caklontong
+2. game: caklontong [Lihat Disini](https://wa.me/6281513607731?text=Saya%20ingin%20bertanya%20tentang%20proyek%20GitHub%20Anda).
 ```json
 https://raw.githubusercontent.com/ditss-dev/database/main/game/caklontong.json
 ```
-3. game : family100
+3. game : family100[Lihat Disini](https://wa.me/6281513607731?text=Saya%20ingin%20bertanya%20tentang%20proyek%20GitHub%20Anda).
 ```json
 https://raw.githubusercontent.com/ditss-dev/database/main/game/family100.json
 ```
-4. game : siapakahaku
+4. game : siapakahaku[Lihat Disini](https://wa.me/6281513607731?text=Saya%20ingin%20bertanya%20tentang%20proyek%20GitHub%20Anda).
 ```json
 https://raw.githubusercontent.com/ditss-dev/database/main/game/siapakahaku.json
 ```
-5. game : susunkata
+5. game : susunkata[Lihat Disini](https://wa.me/6281513607731?text=Saya%20ingin%20bertanya%20tentang%20proyek%20GitHub%20Anda).
 ```json
 https://raw.githubusercontent.com/ditss-dev/database/main/game/susunkata.json
 ```
-6. game : tebakanime
+6. game : tebakanime[Lihat Disini](https://wa.me/6281513607731?text=Saya%20ingin%20bertanya%20tentang%20proyek%20GitHub%20Anda).
 ```json
 https://raw.githubusercontent.com/ditss-dev/database/main/game/tebakanime.json
 ```
-7. game : tebakbendera
+7. game : tebakbendera[Lihat Disini](https://wa.me/6281513607731?text=Saya%20ingin%20bertanya%20tentang%20proyek%20GitHub%20Anda).
 ```json
 https://raw.githubusercontent.com/ditss-dev/database/main/game/tebakbendera.json
 ```
-8. game : tebakbendera2
+8. game : tebakbendera2[Lihat Disini](https://wa.me/6281513607731?text=Saya%20ingin%20bertanya%20tentang%20proyek%20GitHub%20Anda).
 ```json
 https://raw.githubusercontent.com/ditss-dev/database/main/game/tebakbendera2.json
 ```
-9. game : tebakgambar
+9. game : tebakgambar[Lihat Disini](https://wa.me/6281513607731?text=Saya%20ingin%20bertanya%20tentang%20proyek%20GitHub%20Anda).
 ```json
 https://raw.githubusercontent.com/ditss-dev/database/main/game/tebakgambar.json
 ```
-10. game : tebakkabupaten
+10. game : tebakkabupaten[Lihat Disini](https://wa.me/6281513607731?text=Saya%20ingin%20bertanya%20tentang%20proyek%20GitHub%20Anda).
 ```json
 https://raw.githubusercontent.com/ditss-dev/database/main/game/tebakkabupaten.json
 ```
-11. game : tebakkalimat
+11. game : tebakkalimat[Lihat Disini](https://wa.me/6281513607731?text=Saya%20ingin%20bertanya%20tentang%20proyek%20GitHub%20Anda).
 ```json
 https://raw.githubusercontent.com/ditss-dev/database/main/game/tebakkalimat.json
 ```
-12. game : tebakkata
+12. game : tebakkata[Lihat Disini](https://wa.me/6281513607731?text=Saya%20ingin%20bertanya%20tentang%20proyek%20GitHub%20Anda).
 ```json
 https://raw.githubusercontent.com/ditss-dev/database/main/game/tebakkata.json
 ```
-13. game : tebakkimia
+13. game : tebakkimia[Lihat Disini](https://wa.me/6281513607731?text=Saya%20ingin%20bertanya%20tentang%20proyek%20GitHub%20Anda).
 ```json
 https://raw.githubusercontent.com/ditss-dev/database/main/game/tebakkimia.json
 ```
-14. game : tebaklagu
+14. game : tebaklagu[Lihat Disini](https://wa.me/6281513607731?text=Saya%20ingin%20bertanya%20tentang%20proyek%20GitHub%20Anda).
 ```json
 https://raw.githubusercontent.com/ditss-dev/database/main/game/tebaklagu.json
 ```
-15. game : tebaklirik
+15. game : tebaklirik[Lihat Disini](https://wa.me/6281513607731?text=Saya%20ingin%20bertanya%20tentang%20proyek%20GitHub%20Anda).
 ```json
 https://raw.githubusercontent.com/ditss-dev/database/main/game/tebaklirik.json
 ```
-16. game : tebaktebakan
+16. game : tebaktebakan[Lihat Disini](https://wa.me/6281513607731?text=Saya%20ingin%20bertanya%20tentang%20proyek%20GitHub%20Anda).
 ```json
 https://raw.githubusercontent.com/ditss-dev/database/main/game/tebatebakan.json
 ```
-17. game : tekateki
+17. game : tekateki[Lihat Disini](https://wa.me/6281513607731?text=Saya%20ingin%20bertanya%20tentang%20proyek%20GitHub%20Anda).
 ```json
 https://raw.githubusercontent.com/ditss-dev/database/main/game/tekateki.json
 ```
