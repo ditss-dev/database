@@ -1,20 +1,20 @@
 ## game for WhatsApp/telegram bots
 
-1. game asah otak:
+1. game: asah otak
 ```json
 https://raw.githubusercontent.com/ditss-dev/database/main/game/asahotak.json
 ```
-2. game caklontong:
+2. game: caklontong
 ```json
 https://raw.githubusercontent.com/ditss-dev/database/main/game/caklontong.json
 ```
-3. game :
+3. game : family100
 ```json
-https://raw.githubusercontent.com/ditss-dev/database/main/game/asahotak.json
+https://raw.githubusercontent.com/ditss-dev/database/main/game/family100.json
 ```
-4. game :
+4. game : siapakahaku
 ```json
-https://raw.githubusercontent.com/ditss-dev/database/main/game/caklontong.json
+https://raw.githubusercontent.com/ditss-dev/database/main/game/siapakahaku.json
 ```
 5. game :
 ```json
