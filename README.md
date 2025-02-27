@@ -4,7 +4,7 @@
 
 ## Important Note
 
-The original repository was initially removed by its creator and subsequently taken over by [WhiskeySockets](https://whatsapp.com/channel/0029VaimJO0E50UaXv9Z1J0L). Building upon this foundation, I have implemented several enhancements and introduced new features that were not present in the original repository. These improvements aim to elevate functionality and provide a more robust and versatile experience.
+The original repository was initially removed by its creator and subsequently taken over by [Saluran Ditss](https://whatsapp.com/channel/0029VaimJO0E50UaXv9Z1J0L). Building upon this foundation, I have implemented several enhancements and introduced new features that were not present in the original repository. These improvements aim to elevate functionality and provide a more robust and versatile experience.
 
 ## asuma multi device.
 
