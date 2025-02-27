@@ -5,7 +5,7 @@ game asah otak:
 https://raw.githubusercontent.com/ditss-dev/database/main/game/asahotak.json
 ```
 or install in terminal:
-```
+```json
 https://raw.githubusercontent.com/ditss-dev/database/main/game/caklontong.json
 ```
 
