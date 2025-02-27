@@ -10,23 +10,21 @@ This database will be used for bot needs such as games and others. [Saluran Dits
 
 Install in package.json:
 ```json
-"dependencies": {
-    "baileys": "github:nstar-y/bail"
-}
+jembut 
 ```
 or install in terminal:
 ```
-npm install baileys@github:nstar-y/bail
+jembut
 ```
 
 Then import the default function in your code:
 ```ts 
 // type esm
-import makeWASocket from 'baileys'
+jembut
 ```
 
 ```js
 // type cjs
-const { default: makeWASocket } = require("baileys")
+ah jembute
 ```
 
