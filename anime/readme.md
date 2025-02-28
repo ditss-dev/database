@@ -1,4 +1,4 @@
 # tai mau tai?
-```json
+```ts
 ntahlah
 ```
