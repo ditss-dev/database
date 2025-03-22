@@ -1,3 +1,4 @@
+<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hi, saya aditt 👨‍💻
 # <div align='center'>database for asuma bot needs</div>
 
 <div align="center"><img src="https://files.catbox.moe/n9rspg.jpg"></div>
