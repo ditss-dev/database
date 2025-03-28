@@ -1,4 +1,4 @@
-<img src="https://files.catbox.moe/5fesaz.webp" width="30px">Hi, saya aditt 👨‍💻
+<img src="https://files.catbox.moe/0farxz.webp" width="30px">Hi, saya aditt 👨‍💻
 # <div align='center'>database for asuma bot needs</div>
 
 <div align="center"><img src="https://files.catbox.moe/n9rspg.jpg"></div>
