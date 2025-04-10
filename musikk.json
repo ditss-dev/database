@@ -1,9 +1,20 @@
 [
+      { 
+      title: "bayar bayar",
+      artist: "Sukatani",
+      src: "https://files.catbox.moe/zkoeg2.mp3",
+      cover: "https://img12.pixhost.to/images/1580/586575648_ditss.jpg"
+      },
       {
         title: "stay with me",
         artist: "1nonly",
         src: "https://files.catbox.moe/r2bg8b.mp3",
         cover: "https://img12.pixhost.to/images/1579/586572253_ditss.jpg"
+      },
+      { title: "php",
+        artist: "Souljah",
+        src: "https://files.catbox.moe/fy91gr.mp3",
+        cover: "https://img12.pixhost.to/images/1579/586574099_ditss.jpg"
       },
       {
         title: "Rumah ke Rumah",
@@ -173,50 +184,50 @@
         src: "https://files.catbox.moe/vdjd44.mp3",
         cover: "https://img12.pixhost.to/images/1566/586303387_ditss.jpg"
       },{
-        title: "",
-        artist: "",
-        src: "",
-        cover: ""
+        title: "nina",
+        artist: ".Feast",
+        src: "https://files.catbox.moe/0kyc2m.mp3",
+        cover: "https://img12.pixhost.to/images/1579/586572948_ditss.jpg"
       },{
-        title: "",
-        artist: "",
-        src: "",
-        cover: ""
+        title: "peradaban",
+        artist: ".Feast",
+        src: "https://files.catbox.moe/0y4xwg.mp3",
+        cover: "https://img12.pixhost.to/images/1579/586573182_ditss.jpg"
       },{
-        title: "",
-        artist: "",
-        src: "",
-        cover: ""
+        title: "tarot",
+        artist: ".Feast",
+        src: "https://files.catbox.moe/t2bcw8.mp3",
+        cover: "https://img12.pixhost.to/images/1579/586573330_ditss.jpg"
       },{
-        title: "",
-        artist: "",
-        src: "",
-        cover: ""
+        title: "kami blum tentu",
+        artist: ".feast",
+        src: "https://files.catbox.moe/woxuph.mp3",
+        cover: "https://img12.pixhost.to/images/1579/586573498_ditss.jpg"
       },{
-        title: "",
-        artist: "",
-        src: "",
-        cover: ""
+        title: "gugatan rakyat semesta",
+        artist: ".Feast",
+        src: "https://files.catbox.moe/cg5zzl.mp3",
+        cover: "https://img12.pixhost.to/images/1579/586573859_ditss.jpg"
       },{
-        title: "",
-        artist: "",
-        src: "",
-        cover: ""
+        title: "aduh - surga itu kamu",
+        artist: "Maliq & D'essentials",
+        src: "https://files.catbox.moe/w6xtw8.mp3",
+        cover: "https://img12.pixhost.to/images/1579/586574446_ditss.jpg"
       },{
-        title: "",
-        artist: "",
-        src: "",
-        cover: ""
+        title: "teteh",
+        artist: "doel sumbang",
+        src: "https://files.catbox.moe/cwcndu.mp3",
+        cover: "https://img12.pixhost.to/images/1579/586574643_ditss.jpg"
       },{
-        title: "",
-        artist: "",
-        src: "",
-        cover: ""
+        title: "mata air",
+        artist: "hindia",
+        src: "https://files.catbox.moe/9fuu5a.mp3",
+        cover: "https://img12.pixhost.to/images/1579/586575019_ditss.jpg"
       },{
-        title: "",
-        artist: "",
-        src: "",
-        cover: ""
+        title: "kuingin kau mati saja",
+        artist: "Souljah",
+        src: "https://files.catbox.moe/wvkwaf.mp3",
+        cover: "https://img12.pixhost.to/images/1580/586575428_ditss.jpg"
       },{
         title: "",
         artist: "",
