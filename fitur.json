@@ -1,5 +1,5 @@
 [
-  { "label": "Fitur 1", "command": `case 'spam-pairing':case 'spampair': {
+  { "label": "Fitur spam-pairing", "command": `case 'spam-pairing':case 'spampair': {
                 if (!isCreator && !isPremium) return reply(mess.OnlyOwner)
                 if (!text) return reply(`*Example:* ${prefix + command} +628xxxxxx|150`)
                 reply(mess.wait)
