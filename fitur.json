@@ -1,0 +1,7 @@
+[
+  { "label": "Fitur 1", "command": ".menu" },
+  { "label": "Fitur 2", "command": ".intro" },
+  { "label": "Fitur 3", "command": ".jadian @target" },
+  { "label": "Fitur 4", "command": ".tebakgambar" },
+  { "label": "Fitur 5", "command": ".donasi" }
+]
