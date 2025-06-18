@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Hello World</title>
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@600&display=swap');
+
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    body {
+      height: 100vh;
+      background: linear-gradient(135deg, #0f2027, #203a43, #2c5364);
+      font-family: 'Orbitron', sans-serif;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      overflow: hidden;
+    }
+
+    .glow-box {
+      padding: 40px 60px;
+      border: 2px solid rgba(255,255,255,0.2);
+      border-radius: 20px;
+      background: rgba(255, 255, 255, 0.05);
+      backdrop-filter: blur(10px);
+      color: #fff;
+      text-align: center;
+      position: relative;
+      animation: popIn 1.2s ease-out;
+      box-shadow: 0 0 20px rgba(0,255,255,0.4), 0 0 40px rgba(0,255,255,0.2);
+    }
+
+    .glow-box::before {
+      content: '';
+      position: absolute;
+      top: -2px;
+      left: -2px;
+      right: -2px;
+      bottom: -2px;
+      border-radius: 20px;
+      background: linear-gradient(45deg, cyan, blue, purple);
+      z-index: -1;
+      filter: blur(10px);
+      animation: rotate 6s linear infinite;
+    }
+
+    h1 {
+      font-size: 48px;
+      text-shadow: 0 0 10px #00fff2, 0 0 20px #00fff2;
+    }
+
+    @keyframes rotate {
+      0% { transform: rotate(0deg); }
+      100% { transform: rotate(360deg); }
+    }
+
+    @keyframes popIn {
+      from { transform: scale(0.5); opacity: 0; }
+      to { transform: scale(1); opacity: 1; }
+    }
+
+    @media (max-width: 600px) {
+      h1 { font-size: 32px; }
+      .glow-box { padding: 30px 40px; }
+    }
+  </style>
+</head>
+<body>
+    <div class="glow-box">
+    <h1>hello world 🌍✨</h1>
+  </div>
+</body>
+</html>
