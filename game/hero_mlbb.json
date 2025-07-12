@@ -1,0 +1,627 @@
+[
+  {
+    "jawaban": "Aamon",
+    "role": "assassin",
+    "img": "https://ditss.vercel.app/assets/image/Aamon.jpg"
+  },
+  {
+    "jawaban": "Akai",
+    "role": "tank",
+    "img": "https://ditss.vercel.app/assets/image/Akai.jpg"
+  },
+  {
+    "jawaban": "Aldous",
+    "role": "fighter",
+    "img": "https://ditss.vercel.app/assets/image/Aldous.jpg"
+  },
+  {
+    "jawaban": "Alice",
+    "role": "mage/tank",
+    "img": "https://ditss.vercel.app/assets/image/Alice.jpg"
+  },
+  {
+    "jawaban": "Alpha",
+    "role": "fighter",
+    "img": "https://ditss.vercel.app/assets/image/Alpha.jpg"
+  },
+  {
+    "jawaban": "Alucard",
+    "role": "fighter/assassin",
+    "img": "https://ditss.vercel.app/assets/image/Alucard.jpg"
+  },
+  {
+    "jawaban": "Angela",
+    "role": "support",
+    "img": "https://ditss.vercel.app/assets/image/Angela.jpg"
+  },
+  {
+    "jawaban": "Argus",
+    "role": "fighter",
+    "img": "https://ditss.vercel.app/assets/image/Argus.jpg"
+  },
+  {
+    "jawaban": "Arlott",
+    "role": "fighter",
+    "img": "https://ditss.vercel.app/assets/image/Arlott.jpg"
+  },
+  {
+    "jawaban": "Atlas",
+    "role": "tank",
+    "img": "https://ditss.vercel.app/assets/image/Atlas.jpg"
+  },
+  {
+    "jawaban": "Aulus",
+    "role": "fighter",
+    "img": "https://ditss.vercel.app/assets/image/Aulus.jpg"
+  },
+  {
+    "jawaban": "Aurora",
+    "role": "mage",
+    "img": "https://ditss.vercel.app/assets/image/Aurora.jpg"
+  },
+  {
+    "jawaban": "Badang",
+    "role": "fighter",
+    "img": "https://ditss.vercel.app/assets/image/Badang.jpg"
+  },
+  {
+    "jawaban": "Balmond",
+    "role": "fighter/tank",
+    "img": "https://ditss.vercel.app/assets/image/Balmond.jpg"
+  },
+  {
+    "jawaban": "Bane",
+    "role": "fighter",
+    "img": "https://ditss.vercel.app/assets/image/Bane.jpg"
+  },
+  {
+    "jawaban": "Baxia",
+    "role": "tank",
+    "img": "https://ditss.vercel.app/assets/image/Baxia.jpg"
+  },
+  {
+    "jawaban": "Beatrix",
+    "role": "marksman",
+    "img": "https://ditss.vercel.app/assets/image/Beatrix.jpg"
+  },
+  {
+    "jawaban": "Benedetta",
+    "role": "assassin",
+    "img": "https://ditss.vercel.app/assets/image/Benedetta.jpg"
+  },
+  {
+    "jawaban": "Belerick",
+    "role": "tank",
+    "img": "https://ditss.vercel.app/assets/image/Belerick.jpg"
+  },
+  {
+    "jawaban": "Brody",
+    "role": "marksman",
+    "img": "https://ditss.vercel.app/assets/image/Brody.jpg"
+  },
+  {
+    "jawaban": "Bruno",
+    "role": "marksman",
+    "img": "https://ditss.vercel.app/assets/image/Bruno.jpg"
+  },
+  {
+    "jawaban": "Carmilla",
+    "role": "support",
+    "img": "https://ditss.vercel.app/assets/image/Carmilla.jpg"
+  },
+  {
+    "jawaban": "Cecilion",
+    "role": "mage",
+    "img": "https://ditss.vercel.app/assets/image/Cecilion.jpg"
+  },
+  {
+    "jawaban": "Chang e",
+    "role": "mage",
+    "img": "https://ditss.vercel.app/assets/image/Chang_e.jpg"
+  },
+  {
+    "jawaban": "Chou",
+    "role": "fighter",
+    "img": "https://ditss.vercel.app/assets/image/Chou.jpg"
+  },
+  {
+    "jawaban": "Chip",
+    "role": "tank/support",
+    "img": "https://ditss.vercel.app/assets/image/Chip.jpg"
+  },
+  {
+    "jawaban": "Cici",
+    "role": "fighter",
+    "img": "https://ditss.vercel.app/assets/image/Cici.jpg"
+  },
+  {
+    "jawaban": "Clint",
+    "role": "marksman",
+    "img": "https://ditss.vercel.app/assets/image/Clint.jpg"
+  },
+  {
+    "jawaban": "Claude",
+    "role": "marksman",
+    "img": "https://ditss.vercel.app/assets/image/Claude.jpg"
+  },
+  {
+    "jawaban": "Cyclops",
+    "role": "mage",
+    "img": "https://ditss.vercel.app/assets/image/Cyclops.jpg"
+  },
+  {
+    "jawaban": "Diggie",
+    "role": "support",
+    "img": "https://ditss.vercel.app/assets/image/Diggie.jpg"
+  },
+  {
+    "jawaban": "Dyrroth",
+    "role": "fighter",
+    "img": "https://ditss.vercel.app/assets/image/Dyrroth.jpg"
+  },
+  {
+    "jawaban": "Edith",
+    "role": "tank/marksman",
+    "img": "https://ditss.vercel.app/assets/image/Edith.jpg"
+  },
+  {
+    "jawaban": "Esmeralda",
+    "role": "mage/tank",
+    "img": "https://ditss.vercel.app/assets/image/Esmeralda.jpg"
+  },
+  {
+    "jawaban": "Estes",
+    "role": "support",
+    "img": "https://ditss.vercel.app/assets/image/Estes.jpg"
+  },
+  {
+    "jawaban": "Eudora",
+    "role": "mage",
+    "img": "https://ditss.vercel.app/assets/image/Eudora.jpg"
+  },
+  {
+    "jawaban": "Faramis",
+    "role": "support",
+    "img": "https://ditss.vercel.app/assets/image/Faramis.jpg"
+  },
+  {
+    "jawaban": "Fanny",
+    "role": "assassin",
+    "img": "https://ditss.vercel.app/assets/image/Fanny.jpg"
+  },
+  {
+    "jawaban": "Floryn",
+    "role": "support",
+    "img": "https://ditss.vercel.app/assets/image/Floryn.jpg"
+  },
+  {
+    "jawaban": "Franco",
+    "role": "tank",
+    "img": "https://ditss.vercel.app/assets/image/Franco.jpg"
+  },
+  {
+    "jawaban": "Fredrinn",
+    "role": "fighter/tank",
+    "img": "https://ditss.vercel.app/assets/image/Fredrinn.jpg"
+  },
+  {
+    "jawaban": "Freya",
+    "role": "fighter",
+    "img": "https://ditss.vercel.app/assets/image/Freya.jpg"
+  },
+  {
+    "jawaban": "Gatotkaca",
+    "role": "tank/fighter",
+    "img": "https://ditss.vercel.app/assets/image/Gatotkaca.jpg"
+  },
+  {
+    "jawaban": "Gloo",
+    "role": "tank",
+    "img": "https://ditss.vercel.app/assets/image/Gloo.jpg"
+  },
+  {
+    "jawaban": "Gord",
+    "role": "mage",
+    "img": "https://ditss.vercel.app/assets/image/Gord.jpg"
+  },
+  {
+    "jawaban": "Granger",
+    "role": "marksman",
+    "img": "https://ditss.vercel.app/assets/image/Granger.jpg"
+  },
+  {
+    "jawaban": "Grock",
+    "role": "tank",
+    "img": "https://ditss.vercel.app/assets/image/Grock.jpg"
+  },
+  {
+    "jawaban": "Guinevere",
+    "role": "fighter/mage",
+    "img": "https://ditss.vercel.app/assets/image/Guinevere.jpg"
+  },
+  {
+    "jawaban": "Gusion",
+    "role": "assassin",
+    "img": "https://ditss.vercel.app/assets/image/Gusion.jpg"
+  },
+  {
+    "jawaban": "Hanabi",
+    "role": "marksman",
+    "img": "https://ditss.vercel.app/assets/image/Hanabi.jpg"
+  },
+  {
+    "jawaban": "Hanzo",
+    "role": "assassin",
+    "img": "https://ditss.vercel.app/assets/image/Hanzo.jpg"
+  },
+  {
+    "jawaban": "Harith",
+    "role": "mage",
+    "img": "https://ditss.vercel.app/assets/image/Harith.jpg"
+  },
+  {
+    "jawaban": "Harley",
+    "role": "mage/assassin",
+    "img": "https://ditss.vercel.app/assets/image/Harley.jpg"
+  },
+  {
+    "jawaban": "Hayabusa",
+    "role": "assassin",
+    "img": "https://ditss.vercel.app/assets/image/Hayabusa.jpg"
+  },
+  {
+    "jawaban": "Hilda",
+    "role": "tank/fighter",
+    "img": "https://ditss.vercel.app/assets/image/Hilda.jpg"
+  },
+  {
+    "jawaban": "Hylos",
+    "role": "tank",
+    "img": "https://ditss.vercel.app/assets/image/Hylos.jpg"
+  },
+  {
+    "jawaban": "Irithel",
+    "role": "marksman",
+    "img": "https://ditss.vercel.app/assets/image/Irithel.jpg"
+  },
+  {
+    "jawaban": "Ixia",
+    "role": "marksman",
+    "img": "https://ditss.vercel.app/assets/image/Ixia.jpg"
+  },
+  {
+    "jawaban": "Jawhead",
+    "role": "fighter",
+    "img": "https://ditss.vercel.app/assets/image/Jawhead.jpg"
+  },
+  {
+    "jawaban": "Johnson",
+    "role": "tank",
+    "img": "https://ditss.vercel.app/assets/image/Johnson.jpg"
+  },
+  {
+    "jawaban": "Joy",
+    "role": "assassin",
+    "img": "https://ditss.vercel.app/assets/image/Joy.jpg"
+  },
+  {
+    "jawaban": "Julian",
+    "role": "fighter/mage",
+    "img": "https://ditss.vercel.app/assets/image/Julian.jpg"
+  },
+  {
+    "jawaban": "Kadita",
+    "role": "mage/assassin",
+    "img": "https://ditss.vercel.app/assets/image/Kadita.jpg"
+  },
+  {
+    "jawaban": "Kagura",
+    "role": "mage",
+    "img": "https://ditss.vercel.app/assets/image/Kagura.jpg"
+  },
+  {
+    "jawaban": "Kaja",
+    "role": "support/fighter",
+    "img": "https://ditss.vercel.app/assets/image/Kaja.jpg"
+  },
+  {
+    "jawaban": "Karina",
+    "role": "assassin",
+    "img": "https://ditss.vercel.app/assets/image/Karina.jpg"
+  },
+  {
+    "jawaban": "Karrie",
+    "role": "marksman",
+    "img": "https://ditss.vercel.app/assets/image/Karrie.jpg"
+  },
+  {
+    "jawaban": "Khaleed",
+    "role": "fighter",
+    "img": "https://ditss.vercel.app/assets/image/Khaleed.jpg"
+  },
+  {
+    "jawaban": "Khufra",
+    "role": "tank",
+    "img": "https://ditss.vercel.app/assets/image/Khufra.jpg"
+  },
+  {
+    "jawaban": "Kimmy",
+    "role": "marksman/mage",
+    "img": "https://ditss.vercel.app/assets/image/Kimmy.jpg"
+  },
+  {
+    "jawaban": "Lancelot",
+    "role": "assassin",
+    "img": "https://ditss.vercel.app/assets/image/Lancelot.jpg"
+  },
+  {
+    "jawaban": "Lapu-Lapu",
+    "role": "fighter",
+    "img": "https://ditss.vercel.app/assets/image/Lapu-Lapu.jpg"
+  },
+  {
+    "jawaban": "Layla",
+    "role": "marksman",
+    "img": "https://ditss.vercel.app/assets/image/Layla.jpg"
+  },
+  {
+    "jawaban": "Leomord",
+    "role": "fighter",
+    "img": "https://ditss.vercel.app/assets/image/Leomord.jpg"
+  },
+  {
+    "jawaban": "Lesley",
+    "role": "marksman",
+    "img": "https://ditss.vercel.app/assets/image/Lesley.jpg"
+  },
+  {
+    "jawaban": "Ling",
+    "role": "assassin",
+    "img": "https://ditss.vercel.app/assets/image/Ling.jpg"
+  },
+  {
+    "jawaban": "Lolita",
+    "role": "tank",
+    "img": "https://ditss.vercel.app/assets/image/Lolita.jpg"
+  },
+  {
+    "jawaban": "Lunox",
+    "role": "mage",
+    "img": "https://ditss.vercel.app/assets/image/Lunox.jpg"
+  },
+  {
+    "jawaban": "Luo Yi",
+    "role": "mage",
+    "img": "https://ditss.vercel.app/assets/image/Luo_Yi.jpg"
+  },
+  {
+    "jawaban": "Martis",
+    "role": "fighter",
+    "img": "https://ditss.vercel.app/assets/image/Martis.jpg"
+  },
+  {
+    "jawaban": "Mathilda",
+    "role": "support/assassin",
+    "img": "https://ditss.vercel.app/assets/image/Mathilda.jpg"
+  },
+  {
+    "jawaban": "Melissa",
+    "role": "marksman",
+    "img": "https://ditss.vercel.app/assets/image/Melissa.jpg"
+  },
+  {
+    "jawaban": "Minsitthar",
+    "role": "fighter",
+    "img": "https://ditss.vercel.app/assets/image/Minsitthar.jpg"
+  },
+  {
+    "jawaban": "Minotaur",
+    "role": "tank/support",
+    "img": "https://ditss.vercel.app/assets/image/Minotaur.jpg"
+  },
+  {
+    "jawaban": "Miya",
+    "role": "marksman",
+    "img": "https://ditss.vercel.app/assets/image/Miya.jpg"
+  },
+  {
+    "jawaban": "Moskov",
+    "role": "marksman",
+    "img": "https://ditss.vercel.app/assets/image/Moskov.jpg"
+  },
+  {
+    "jawaban": "Nana",
+    "role": "mage/support",
+    "img": "https://ditss.vercel.app/assets/image/Nana.jpg"
+  },
+  {
+    "jawaban": "Natalia",
+    "role": "assassin",
+    "img": "https://ditss.vercel.app/assets/image/Natalia.jpg"
+  },
+  {
+    "jawaban": "Natan",
+    "role": "marksman",
+    "img": "https://ditss.vercel.app/assets/image/Natan.jpg"
+  },
+  {
+    "jawaban": "Novaria",
+    "role": "mage",
+    "img": "https://ditss.vercel.app/assets/image/Novaria.jpg"
+  },
+  {
+    "jawaban": "Odette",
+    "role": "mage",
+    "img": "https://ditss.vercel.app/assets/image/Odette.jpg"
+  },
+  {
+    "jawaban": "Paquito",
+    "role": "fighter",
+    "img": "https://ditss.vercel.app/assets/image/Paquito.jpg"
+  },
+  {
+    "jawaban": "Pharsa",
+    "role": "mage",
+    "img": "https://ditss.vercel.app/assets/image/Pharsa.jpg"
+  },
+  {
+    "jawaban": "Phoveus",
+    "role": "fighter",
+    "img": "https://ditss.vercel.app/assets/image/Phoveus.jpg"
+  },
+  {
+    "jawaban": "Popol and Kupa",
+    "role": "marksman",
+    "img": "https://ditss.vercel.app/assets/image/Popol_and_Kupa.jpg"
+  },
+  {
+    "jawaban": "Rafaela",
+    "role": "support",
+    "img": "https://ditss.vercel.app/assets/image/Rafaela.jpg"
+  },
+  {
+    "jawaban": "Roger",
+    "role": "fighter/marksman",
+    "img": "https://ditss.vercel.app/assets/image/Roger.jpg"
+  },
+  {
+    "jawaban": "Ruby",
+    "role": "fighter/tank",
+    "img": "https://ditss.vercel.app/assets/image/Ruby.jpg"
+  },
+  {
+    "jawaban": "Saber",
+    "role": "assassin",
+    "img": "https://ditss.vercel.app/assets/image/Saber.jpg"
+  },
+  {
+    "jawaban": "Selena",
+    "role": "assassin/mage",
+    "img": "https://ditss.vercel.app/assets/image/Selena.jpg"
+  },
+  {
+    "jawaban": "Silvanna",
+    "role": "fighter/mage",
+    "img": "https://ditss.vercel.app/assets/image/Silvanna.jpg"
+  },
+  {
+    "jawaban": "Sun",
+    "role": "fighter",
+    "img": "https://ditss.vercel.app/assets/image/Sun.jpg"
+  },
+  {
+    "jawaban": "Terizla",
+    "role": "fighter",
+    "img": "https://ditss.vercel.app/assets/image/Terizla.jpg"
+  },
+  {
+    "jawaban": "Thamuz",
+    "role": "fighter",
+    "img": "https://ditss.vercel.app/assets/image/Thamuz.jpg"
+  },
+  {
+    "jawaban": "Tigreal",
+    "role": "tank",
+    "img": "https://ditss.vercel.app/assets/image/Tigreal.jpg"
+  },
+  {
+    "jawaban": "Uranus",
+    "role": "tank",
+    "img": "https://ditss.vercel.app/assets/image/Uranus.jpg"
+  },
+  {
+    "jawaban": "Valentina",
+    "role": "mage",
+    "img": "https://ditss.vercel.app/assets/image/Valentina.jpg"
+  },
+  {
+    "jawaban": "Vale",
+    "role": "mage",
+    "img": "https://ditss.vercel.app/assets/image/Vale.jpg"
+  },
+  {
+    "jawaban": "Valir",
+    "role": "mage",
+    "img": "https://ditss.vercel.app/assets/image/Valir.jpg"
+  },
+  {
+    "jawaban": "Vexana",
+    "role": "mage",
+    "img": "https://ditss.vercel.app/assets/image/Vexana.jpg"
+  },
+  {
+    "jawaban": "Wanwan",
+    "role": "marksman",
+    "img": "https://ditss.vercel.app/assets/image/Wanwan.jpg"
+  },
+  {
+    "jawaban": "Xavier",
+    "role": "mage",
+    "img": "https://ditss.vercel.app/assets/image/Xavier.jpg"
+  },
+  {
+    "jawaban": "X.Borg",
+    "role": "fighter",
+    "img": "https://ditss.vercel.app/assets/image/X.Borg.jpg"
+  },
+  {
+    "jawaban": "Yin",
+    "role": "fighter",
+    "img": "https://ditss.vercel.app/assets/image/Yin.jpg"
+  },
+  {
+    "jawaban": "Yi Sun-shin",
+    "role": "marksman/assassin",
+    "img": "https://ditss.vercel.app/assets/image/Yi_Sun-shin.jpg"
+  },
+  {
+    "jawaban": "Yve",
+    "role": "mage",
+    "img": "https://ditss.vercel.app/assets/image/Yve.jpg"
+  },
+  {
+    "jawaban": "Yu Zhong",
+    "role": "fighter",
+    "img": "https://ditss.vercel.app/assets/image/Yu_Zhong.jpg"
+  },
+  {
+    "jawaban": "Zhask",
+    "role": "mage",
+    "img": "https://ditss.vercel.app/assets/image/Zhask.jpg"
+  },
+  {
+    "jawaban": "Zilong",
+    "role": "fighter/assassin",
+    "img": "https://ditss.vercel.app/assets/image/Zilong.jpg"
+  },
+  {
+    "jawaban": "Suyou",
+    "role": "assassin",
+    "img": "https://ditss.vercel.app/assets/image/Suyou.jpg"
+  },
+  {
+    "jawaban": "Zetian",
+    "role": "mage",
+    "img": "https://ditss.vercel.app/assets/image/Zetian.jpg"
+  },
+  {
+     "jawaban": "Nolan",
+     "role": "assassin",
+     "img": "https://ditss.vercel.app/assets/image/Nolan.jpg"
+  },
+  {
+     "jawaban": "Zhuxin",
+     "role": "mage",
+     "img": "https://ditss.vercel.app/assets/image/Zhuxin.jpg"
+  },
+  {
+     "jawaban": "Lukas",
+     "role": "fighter",
+     "img": "https://ditss.vercel.app/assets/image/Lukas.jpg"
+  },
+  {
+     "jawaban": "Kalea",
+     "role": "support",
+     "img": "https://ditss.vercel.app/assets/image/Kalea.jpg"
+  }
+]
